@@ -66,6 +66,6 @@ Make sure your webcam is connected. Press **`q`** to quit.
 
 ## 👤 Author
 
-**Kajus Misevičius, Rusnė Andrulevičiūtė**  
+**Kajus Misevičius**  
 VILNIUS TECH — Artificial Intelligence Systems (BSc, Year 3)  
 Erasmus @ University of Aveiro, Portugal (2025–2026)  
